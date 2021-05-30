@@ -569,7 +569,11 @@ body {
 }
 
 .header-banner__btn:hover {
-  background-color: #354556c5;
+  background-color: #354556;
+}
+
+.header-banner__btn:active {
+  background-color: #27384b;
 }
 
 .main {
